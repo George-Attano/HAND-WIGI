@@ -1,0 +1,5 @@
+title1 {
+    background-color: rgba(0, 0, 0, 0);
+    border: none;
+    border-bottom: 2px solid qlineargradient(x1: 0, y1: 0, x2: 1, y2: 0, stop: 0 #FF00FF,stop: 1 #00FFFF);
+}
