@@ -1,0 +1,11 @@
+mediapipe==0.10.0
+numpy==1.24.2
+opencv_contrib_python==4.7.0.72
+opencv_python==4.7.0.72
+PyAutoGUI==0.9.53
+PyQt5==5.15.9
+PyQt5_Frameless_Window==0.2.7
+PyQt5_sip==12.11.1
+PyQt_Fluent_Widgets==0.9.1
+python_office==0.3.12
+pywin32==306
